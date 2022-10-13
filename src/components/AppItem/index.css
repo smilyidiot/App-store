@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.image {
+  height: 85px;
+}
+
+.card {
+  background-color: #ffffff;
+  padding: 10px;
+  margin: 8px;
+  border-radius: 10px;
+  height: 180px;
+  width: 20%;
+  padding: 20px;
+}
+
+.app-name {
+  font-family: 'Bree Serif';
+  font-size: 18px;
+}

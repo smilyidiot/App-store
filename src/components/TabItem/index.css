@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.tabs {
+  background-color: transparent;
+  margin: 20px;
+  border: 0px solid;
+  font-size: 25px;
+  font-family: 'Bree Serif';
+  margin-left: 0px;
+  color: #7b8794;
+}
+
+.activate {
+  border-bottom: 2px solid #0b69ff;
+  color: #3e4c59;
+}
